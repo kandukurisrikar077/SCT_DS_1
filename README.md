@@ -1,10 +1,10 @@
 # 🏠 House Price Prediction using Linear Regression
 
-## 📌 SkillCraft Technology – Data Science Internship
+## 📌 SkillCraft Technology – Machine Learning Internship
 
 ### Task 01
 
-This project was completed as part of the **SkillCraft Technology Data Science Internship**.
+This project was completed as part of the **SkillCraft Technology Machine Learning Internship**.
 
 The objective of this project is to build a **Linear Regression** model to predict house prices based on:
 
@@ -17,7 +17,7 @@ The objective of this project is to build a **Linear Regression** model to predi
 # 📂 Repository Structure
 
 ```
-SCT_DS_1/
+SCT_ML_1/
 │
 ├── README.md
 ├── requirements.txt
@@ -50,8 +50,7 @@ SCT_DS_1/
 
 **House Prices: Advanced Regression Techniques (Ames Housing Dataset)**
 
-Dataset Link:
-
+Dataset:
 https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data
 
 ---
@@ -85,8 +84,6 @@ https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/
 
 # 📈 Model Evaluation
 
-The model was evaluated using:
-
 - R² Score
 - Mean Absolute Error (MAE)
 - Root Mean Squared Error (RMSE)
@@ -107,40 +104,34 @@ The model was evaluated using:
 
 # 🚀 How to Run
 
-1. Clone this repository
-
 ```bash
-git clone https://github.com/kandukurisrikar077/SCT_DS_1.git
+git clone https://github.com/kandukurisrikar077/SCT_ML_1.git
 ```
-
-2. Install the required libraries
 
 ```bash
 pip install -r requirements.txt
 ```
 
-3. Open
+Open:
 
 ```
 notebooks/house_price_prediction.ipynb
 ```
 
-4. Run all cells in sequence.
+Run all cells.
 
 ---
 
-# 📌 Author
+# 👨‍💻 Author
 
 **Kandukuri Srikar**
 
 B.Tech Computer Science Engineering
 
-SkillCraft Technology – Data Science Intern
+SkillCraft Technology – Machine Learning Intern
 
 ---
 
-# 🙏 Acknowledgement
+# ⭐ Acknowledgement
 
-This project was completed as part of the **SkillCraft Technology Data Science Internship – Task 01**.
-
-If you found this project helpful, consider giving it a ⭐ on GitHub.
+This project was completed as part of the **SkillCraft Technology Machine Learning Internship – Task 01**.
